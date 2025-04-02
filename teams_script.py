@@ -58,32 +58,7 @@ for team_name, img_url, sport in team_data:
 
 # Match data from the schedule
 match_data = [
-    ('09.04.2025', '11:00', 'Švédsko Ž', 'Německo Ž'),
-    ('09.04.2025', '15:00', 'Finsko Ž', 'USA Ž'),
-    ('09.04.2025', '19:00', 'Česko Ž', 'Švýcarsko Ž'),
-    ('10.04.2025', '11:00', 'Japonsko Ž', 'Norsko Ž'),
-    ('10.04.2025', '15:00', 'Švédsko Ž', 'Kanada Ž'),
-    ('10.04.2025', '19:00', 'Finsko Ž', 'Maďarsko Ž'),
-    ('11.04.2025', '15:00', 'Švýcarsko Ž', 'Kanada Ž'),
-    ('11.04.2025', '19:00', 'USA Ž', 'Česko Ž'),
-    ('12.04.2025', '15:00', 'Norsko Ž', 'Německo Ž'),
-    ('12.04.2025', '19:00', 'Finsko Ž', 'Česko Ž'),
-    ('13.04.2025', '11:00', 'Maďarsko Ž', 'Kanada Ž'),
-    ('13.04.2025', '15:00', 'USA Ž', 'Švýcarsko Ž'),
-    ('13.04.2025', '19:00', 'Česko Ž', 'Švédsko Ž'),
-    ('14.04.2025', '15:00', 'Německo Ž', 'Japonsko Ž'),
-    ('14.04.2025', '19:00', 'Kanada Ž', 'Finsko Ž'),
-    ('15.04.2025', '11:00', 'Maďarsko Ž', 'USA Ž'),
-    ('15.04.2025', '15:00', 'Švýcarsko Ž', 'Švédsko Ž'),
-    ('15.04.2025', '19:00', 'Česko Ž', 'Kanada Ž'),
-    ('16.04.2025', '15:00', 'Norsko Ž', 'Maďarsko Ž'),
-    ('16.04.2025', '19:00', 'Japonsko Ž', 'Německo Ž'),
-    ('17.04.2025', '15:00', 'Playoff 1', 'Playoff 2'),
-    ('17.04.2025', '19:00', 'Playoff 3', 'Playoff 4'),
-    ('18.04.2025', '15:00', 'Semifinal 1', 'Semifinal 2'),
-    ('18.04.2025', '19:00', 'Semifinal 3', 'Semifinal 4'),
-    ('20.04.2025', '15:00', 'Bronze Match', 'Bronze Match'),
-    ('20.04.2025', '19:00', 'Final', 'Final')
+
 ]
 
 # Insert matches
